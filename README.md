@@ -1,2 +1,2 @@
-# cube
-rubiks-cube-solver
+# Cube
+This better work.
